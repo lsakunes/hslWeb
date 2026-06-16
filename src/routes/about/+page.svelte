@@ -11,11 +11,11 @@
 	<h1>About this app</h1>
 
 	<p>
-		This is a <a href="https://svelte.dev/docs/kit">SvelteKit</a> app. You can make your own by typing
-		the following into your command line and following the prompts:
+		wE are the greatest club in this nation. I haven't visited other countries so I don't know about them.
+		We also have the greatest website.
 	</p>
 
-	<pre>npx sv create</pre>
+	<pre>SUCK IT EVAN YOU STACHYBOTRYS CHARTARUM SNORTING DUNCE</pre>
 
 	<p>
 		The page you're looking at is purely static HTML, with no client-side interactivity needed.

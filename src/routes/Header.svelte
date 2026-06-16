@@ -2,12 +2,12 @@
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import github from '$lib/images/github.svg';
-	import logo from '$lib/images/svelte-logo.svg';
+	import logo from '$lib/images/hsl-logo-no-text-bw-transparent.d4038c51.webp';
 </script>
 
 <header>
 	<div class="corner">
-		<a href="https://svelte.dev/docs/kit">
+		<a href="https://huskysat.org/">
 			<img src={logo} alt="SvelteKit" />
 		</a>
 	</div>
@@ -24,7 +24,7 @@
 				<a href={resolve('/about')}>About</a>
 			</li>
 			<li aria-current={page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
-				<a href={resolve('/sverdle')}>Sverdle</a>
+				<a href={resolve('/sverdle')}>HEURGH</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -33,7 +33,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="http://github.com/UWCubeSat/">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>

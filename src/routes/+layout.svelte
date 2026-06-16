@@ -11,9 +11,7 @@
 
 	<footer>
 		<p>
-			visit
-			<a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a>
-			to learn about SvelteKit
+			blah blah blah connect with us and look at our missions or something
 		</p>
 	</footer>
 </div>
